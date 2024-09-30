@@ -4,4 +4,6 @@
 
 # Contact me 
 
+# Hobbies
+
 # Technologies
