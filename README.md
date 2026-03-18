@@ -16,7 +16,7 @@
 
 I'm **Mathematician** & **Physicist** passionate about bridging mathematical modeling with practical software solutions. I work at the intersection of physics, machine learning, and software engineering.
 
-- 🎓 Physics student at **National University of Colombia** — Bogotá, Colombia 🇨🇴
+- 🎓 BSc Mathematics & Physics student at the **National University of Colombia** — Bogotá, Colombia 🇨🇴
 - 🤖 Building things with **ML, AI Engineering** & **Data Science**
 - 🖥️ Deep interest in **Computational Physics**
 - ⚛️ Exploring **Quantum Computing** & **Quantum Information**
