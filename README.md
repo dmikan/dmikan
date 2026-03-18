@@ -3,8 +3,6 @@
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&speed=50&color=63B3ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Danny+%F0%9F%91%8B;Physicist+%7C+Developer+%F0%9F%87%A8%F0%9F%87%B4;ML+and+AI+Engineer+%7C+Dog+Owner+%F0%9F%90%BE)](https://git.io/typing-svg)
 
-<br/>
-
 ![Profile views](https://komarev.com/ghpvc/?username=dmikan&color=63b3ed&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/dmikan?label=Followers&style=flat-square&color=63b3ed)](https://github.com/dmikan)
 
@@ -16,11 +14,11 @@
 
 I'm **Mathematician** & **Physicist** passionate about bridging mathematical modeling with practical software solutions. I work at the intersection of physics, machine learning, and software engineering.
 
-- 🎓 BSc Mathematics & Physics student at the **National University of Colombia** — Bogotá, Colombia 🇨🇴
-- 🤖 Building things with **ML, AI Engineering** & **Data Science**
-- 🖥️ Deep interest in **Computational Physics**
-- ⚛️ Exploring **Quantum Computing** & **Quantum Information**
-- 🏗️ Always learning more about **Software Engineering**
+- 🎓 BSc Mathematics & Physics student at the *National University of Colombia* — Bogotá, Colombia 🇨🇴
+- 🤖 Building things with *ML, AI Engineering* & *Data Science*
+- 🖥️ Deep interest in *Computational Physics*
+- ⚛️ Exploring *Quantum Computing* & *Quantum Information*
+- 🏗️ Keen on *Software Engineering* and Architecture
 - 🐕 Proud dog owner
 
 ---
@@ -46,11 +44,10 @@ I'm **Mathematician** & **Physicist** passionate about bridging mathematical mod
 
 | | Area |
 |:---:|:---|
-| ⚛️ | Quantum Computing & Quantum Mechanics |
-| 🖥️ | Computational Physics |
 | 🤖 | ML Engineering & AI |
-| 📊 | Data Science |
-| 🏗️ | Software Architecture |
+| 🖥️ | Computational Physics |
+| ⚛️ | Quantum Computing & Quantum Mechanics |
+| 🏗️ | Software Engineering |
 
 </div>
 
@@ -59,12 +56,12 @@ I'm **Mathematician** & **Physicist** passionate about bridging mathematical mod
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dmikan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmikan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dmikan&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
 </div>
 
 ---
@@ -73,13 +70,13 @@ I'm **Mathematician** & **Physicist** passionate about bridging mathematical mod
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmikan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[EMAIL_ADDRESS])
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"The important thing is not to stop questioning." — Albert Einstein</i>
+  <i>"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself." — Carl Sagan</i>
 </div>
