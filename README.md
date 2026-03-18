@@ -1,63 +1,85 @@
-<p align="center">
-  <img src="https://view-counter.api.fnkr.net/badge/views/tu-usuario.svg" alt="Views">
-  <img src="https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social" alt="Followers">
-</p>
+<div align="center">
+
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=63B3ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Danny+%F0%9F%91%8B;Physicist+%7C+Developer+%7C+UNAL+%F0%9F%87%A8%F0%9F%87%B4;Quantum+Mechanics+%E2%9A%9B%EF%B8%8F+%7C+ML+%7C+Data+Science;Dog+%26+Cat+Person+%F0%9F%90%BE)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=tu-usuario&color=63b3ed&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Followers&style=flat-square&color=63b3ed)](https://github.com/tu-usuario)
+
+</div>
 
 ---
 
-# Hi there, I'm Danny! 👋 ⚛️
+## 🌌 About Me
 
-I'm a **Physicist** passionate about bridging the gap between theoretical complex systems and practical software solutions. My work focuses on computational physics, data science, and building robust architectures.
+I'm a **Physicist** passionate about bridging theoretical complex systems with practical software solutions. I work at the intersection of computational physics, data science, and software architecture.
 
-- 🎓 **Education:** Physics student at UNAL 🇨🇴
-- 🔬 **Interests:** Quantum Mechanics, Electrodynamics, and Machine Learning
-- 💻 **Tech Stack:** Python, R, Docker, AWS, C++, Linux
-- 🌱 **Learning:** Software Architecture and Quantum Computing
-- 🐕 **Fun Fact:** I'm a proud dog (and cat) person!
+- 🎓 Physics student at **UNAL** — Bogotá, Colombia 🇨🇴
+- ⚛️ Deep interest in **Quantum Computing** & **Quantum Mechanics**
+- 🤖 Building things with **ML, AI Engineering** & **Data Science**
+- 🖥️ Exploring **Computational Physics** through code
+- 🏗️ Always learning more about **Software Architecture**
+- 🐕🐈 Proud dog and cat person — non-negotiable
 
 ---
 
-## 🛠️ My Toolbox
+## 🛠️ Stack
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
+
 ---
 
-## 🌌 Areas of Focus
+## 🔬 Areas of Focus
 
-| | |
-|---|---|
+<div align="center">
+
+| | Area |
+|:---:|:---|
 | ⚛️ | Quantum Computing & Quantum Mechanics |
 | 🖥️ | Computational Physics |
-| 🤖 | ML, AI Engineering & Data Science |
+| 🤖 | ML Engineering & AI |
+| 📊 | Data Science |
 | 🏗️ | Software Architecture |
-| 🐾 | Dogs & cats (top priority) |
+
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&count_private=true" alt="Danny's Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight" alt="Top Languages" height="180">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0d1117" height="170"/>
+</div>
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact
 
-Feel free to reach out if you want to talk about physics, coding, or just to say hi!
+<div align="center">
 
-- 🔗 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-- ✉️ **Email:** [tu-correo@ejemplo.com](mailto:tu-correo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <i>"The important thing is not to stop questioning." — Albert Einstein</i>
-</p>
+</div>
