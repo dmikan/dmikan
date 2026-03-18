@@ -14,14 +14,14 @@
 
 ## 🌌 About Me
 
-I'm a **Physicist** passionate about bridging theoretical complex systems with practical software solutions. I work at the intersection of computational physics, data science, and software architecture.
+I'm a **Physicist** passionate about bridging mathematical modeling with practical software solutions. I work at the intersection of physics, machine learning, and software engineering.
 
-- 🎓 Physics student at **UNAL** — Bogotá, Colombia 🇨🇴
-- ⚛️ Deep interest in **Quantum Computing** & **Quantum Mechanics**
+- 🎓 Physics student at **National University of Colombia** — Bogotá, Colombia 🇨🇴
 - 🤖 Building things with **ML, AI Engineering** & **Data Science**
-- 🖥️ Exploring **Computational Physics** through code
-- 🏗️ Always learning more about **Software Architecture**
-- 🐕🐈 Proud dog and cat person — non-negotiable
+- 🖥️ Deep interest in **Computational Physics**
+- ⚛️ Exploring **Quantum Computing** & **Quantum Information**
+- 🏗️ Always learning more about **Software Engineering**
+- 🐕 Proud dog owner
 
 ---
 
