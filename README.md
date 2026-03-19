@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&speed=50&color=63B3ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Danny+%F0%9F%91%8B;Physicist+%7C+Developer+%F0%9F%87%A8%F0%9F%87%B4;ML+and+AI+Engineer+%7C+Dog+Owner+%F0%9F%90%BE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&speed=50&color=63B3ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Danny+%F0%9F%91%8B;Physicist+%7C+Developer+%F0%9F%87%A8%F0%9F%87%B4;ML+and+AI+Engineer+%7C)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=dmikan&color=63b3ed&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/dmikan?label=Followers&style=flat-square&color=63b3ed)](https://github.com/dmikan)
