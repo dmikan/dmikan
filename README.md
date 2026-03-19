@@ -19,7 +19,6 @@ I'm **Mathematician** & **Physicist** passionate about bridging mathematical mod
 - 🖥️ Deep interest in *Computational Physics*
 - ⚛️ Exploring *Quantum Computing* & *Quantum Information*
 - 🏗️ Keen on *Software Engineering* and Architecture
-- 🐕 Proud dog owner
 
 ---
 
